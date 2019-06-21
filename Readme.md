@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxPageControl - How to change a tab page's visibility via code
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3020/)**
+<!-- run online end -->
 
 
 <p>The following example shows how the tab page's visibility can be changed via code. Note that the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxTabControlASPxPageControl_EnableHierarchyRecreationtopic"><u>EnableHierarhyRecreation</u></a> property should be set to true.</p>
